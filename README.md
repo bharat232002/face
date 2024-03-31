@@ -17,7 +17,3 @@ The Application can be used in the following three ways:
 - PIL
 - cv2
 - Flask
-
-# To Run
-Run hello1.py for running the Flask Application
-
