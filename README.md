@@ -21,6 +21,3 @@ The Application can be used in the following three ways:
 # To Run
 Run hello1.py for running the Flask Application
 
-# Demo Video
-
-https://www.youtube.com/watch?v=FSpsOhoXHXw
